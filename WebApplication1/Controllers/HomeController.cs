@@ -19,7 +19,7 @@ namespace WebApplication1.Controllers
         }
 
         public IActionResult Index()
-        {tjtjt
+        {
             return View();
         }
 
